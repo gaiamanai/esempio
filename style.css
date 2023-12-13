@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Acid;
+    src: url(font/acid-grotesk-regular.otf);
+}
+
+h1,
+body {
+    font-family: Acid;
+    text-align: center;
+}
+.pagecontainer
+{
+    margin: 0 auto;
+    width: 1080px;
+}
+body{
+    background-color: #d7c3c3;
+}
+
+h1 {
+    font-size: 64px;
+    color: #431919;
+}
+
+p {
+    font-size: 18px;
+    color: #080808;
+}
